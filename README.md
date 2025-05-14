@@ -18,11 +18,11 @@
 
 ## 🧠 Notable Projects
 
-### Smart Task Manager  
-`React`, `Node.js`, `MongoDB`, `WebSockets`, `CI/CD`  
-- Real-time task tracking app with user authentication and CRUD APIs  
-- Deployed via Render with automated GitHub Actions pipeline
-
+### Personal Portfolio Website
+`HTML`, `CSS`, `JavaScript`, `GitHub Pages`, `Squarespace`  
+- Designed and developed a fully responsive personal website showcasing projects, experience, and contact information.
+- Integrated interactive components like dynamic navigation, embedded resume PDF, Google Maps, and social media links.
+- Deployed using GitHub Pages and configured a custom domain via Squarespace.
 ### E-Commerce Recommendation System  
 `Python`, `Flask`, `pandas`, `scikit-learn`, `Plotly Dash`  
 - Built collaborative filtering model for personalized recommendations  
