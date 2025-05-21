@@ -45,8 +45,9 @@
 
 ## 📜 Certifications
 
-- Google Cybersecurity Certificate  
+- Google Cybersecurity 
 - Mastercard Cybersecurity Job Simulation
+- Cisco Cybersecurity 
 
 ## 🔗 Let's Connect
 
