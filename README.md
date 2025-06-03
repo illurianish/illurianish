@@ -23,14 +23,18 @@
 - Designed and developed a fully responsive personal website showcasing projects, experience, and contact information.
 - Integrated interactive components like dynamic navigation, embedded resume PDF, Google Maps, and social media links.
 - Deployed using GitHub Pages and configured a custom domain via Squarespace.
-### E-Commerce Recommendation System  
-`Python`, `Flask`, `pandas`, `scikit-learn`, `Plotly Dash`  
-- Built collaborative filtering model for personalized recommendations  
-- Visualized usage patterns and predictions in an interactive dashboard
+### AI Code Detection Bot  
+`Python`, `Flask`, `JavaScript`, `Machine Learning`  
+- Created an AI model that distinguishes between human and AI-generated code based on code structure and metadata  
+- Developed backend API in Flask; deployed on Render with autoscaling and error monitoring  
+- Frontend supports file upload and returns confidence score; hosted on GitHub Pages  
 
-### College Event Management Portal  
-`Django`, `PostgreSQL`, `Python`, `Agile`  
-- Bug tracking portal with role-based access, threaded comments, and sprint simulations
+### AI Mental Health Bot  
+`Python`, `Flask`, `React`, `PostgreSQL`, `OpenAI`  
+- Developed full-stack mental health application with AI chatbot using OpenAI GPT-3.5-turbo for personalized support and CBT exercises  
+- Built Flask REST API with PostgreSQL for mood tracking and journaling; deployed backend on Render with production database  
+- Implemented React TypeScript frontend with mood visualization and chat interface; hosted on GitHub Pages  
+
 
 ## 🛠️ Technical Skills
 
@@ -53,3 +57,4 @@
 
 - 💼 [LinkedIn](https://linkedin.com/in/anishreddyilluri/)  
 - 💻 [GitHub](https://github.com/illurianish)  
+- 📸 [Instagram](https://www.instagram.com/mr_illuri/)  
