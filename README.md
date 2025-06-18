@@ -14,7 +14,7 @@
 
 ## 📜 Certifications
 
-- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/XA2MCWLZ8GDOutm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) 
+- [Google Cybersecurity]([https://www.coursera.org/account/accomplishments/specialization/XA2MCWLZ8GDOutm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof](https://www.coursera.org/account/accomplishments/specialization/XA2MCWLZ8GDO?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)) 
 - Mastercard Cybersecurity Job Simulation
 - Cisco Cybersecurity 
 
