@@ -4,17 +4,17 @@
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Python, JavaScript, C++, SQL, HTML/CSS  
-- **Frameworks:** Node.js, Express.js, Django, Flask  
-- **Frontend:** React, Bootstrap, Tailwind CSS  
-- **Dev Tools:** Git, GitHub Actions, Render, VS Code  
-- **Databases:** PostgreSQL, Firestore  
-- **Testing:** Jest, Supertest  
-- **Practices:** Agile, CI/CD, REST APIs, WebSockets  
+- **Languages:** `Python`, `JavaScript`, `C++`, `SQL`, `HTML/CSS`  
+- **Frameworks:** `Node.js`, `Express.js`, `Django`, `Flask` 
+- **Frontend:** `React, Bootstrap`, `Tailwind CSS`  
+- **Dev Tools:** `Git`, `GitHub Actions`, `Render`, `VS Code`  
+- **Databases:** `PostgreSQL`, `Firestore`  
+- **Testing:** `Jest`, `Supertest`  
+- **Practices:** `Agile`, `CI/CD`, `REST APIs`, `WebSockets`  
 
 ## 📜 Certifications
 
-- Google Cybersecurity 
+- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/XA2MCWLZ8GDOutm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) 
 - Mastercard Cybersecurity Job Simulation
 - Cisco Cybersecurity 
 
