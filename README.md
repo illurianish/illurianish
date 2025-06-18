@@ -1,6 +1,22 @@
 # 👋 Hi, I'm Anish Reddy Illuri
 
-🚀 3rd-year Computer Science student at Fordham University with a passion for full-stack development, secure coding practices, and performance optimization. I thrive in Agile environments and enjoy solving complex problems with scalable solutions.
+🚀 4th-Year Computer Science student at Fordham University with a passion for full-stack development, secure coding practices, and performance optimization. I thrive in Agile environments and enjoy solving complex problems with scalable solutions.
+
+## 🛠️ Technical Skills
+
+- **Languages:** Python, JavaScript, C++, SQL, HTML/CSS  
+- **Frameworks:** Node.js, Express.js, Django, Flask  
+- **Frontend:** React, Bootstrap, Tailwind CSS  
+- **Dev Tools:** Git, GitHub Actions, Render, VS Code  
+- **Databases:** PostgreSQL, Firestore  
+- **Testing:** Jest, Supertest  
+- **Practices:** Agile, CI/CD, REST APIs, WebSockets  
+
+## 📜 Certifications
+
+- Google Cybersecurity 
+- Mastercard Cybersecurity Job Simulation
+- Cisco Cybersecurity 
 
 ## 💼 Experience
 
@@ -18,11 +34,6 @@
 
 ## 🧠 Notable Projects
 
-### Personal Portfolio Website
-`HTML`, `CSS`, `JavaScript`, `GitHub Pages`, `Squarespace`  
-- Designed and developed a fully responsive personal website showcasing projects, experience, and contact information.
-- Integrated interactive components like dynamic navigation, embedded resume PDF, Google Maps, and social media links.
-- Deployed using GitHub Pages and configured a custom domain via Squarespace.
 ### AI Code Detection Bot  
 `Python`, `Flask`, `JavaScript`, `Machine Learning`  
 - Created an AI model that distinguishes between human and AI-generated code based on code structure and metadata  
@@ -33,25 +44,13 @@
 `Python`, `Flask`, `React`, `PostgreSQL`, `OpenAI`  
 - Developed full-stack mental health application with AI chatbot using OpenAI GPT-3.5-turbo for personalized support and CBT exercises  
 - Built Flask REST API with PostgreSQL for mood tracking and journaling; deployed backend on Render with production database  
-- Implemented React TypeScript frontend with mood visualization and chat interface; hosted on GitHub Pages  
+- Implemented React TypeScript frontend with mood visualization and chat interface; hosted on GitHub Pages
 
-
-## 🛠️ Technical Skills
-
-- **Languages:** Python, JavaScript, C++, SQL, HTML/CSS  
-- **Frameworks:** Node.js, Express.js, Django, Flask  
-- **Frontend:** React, Bootstrap, Tailwind CSS  
-- **Dev Tools:** Git, GitHub Actions, Render, VS Code  
-- **Databases:** MongoDB, PostgreSQL, Firestore  
-- **Testing:** Jest, Supertest  
-- **Data/ML:** pandas, scikit-learn, Plotly Dash  
-- **Practices:** Agile, CI/CD, REST APIs, WebSockets  
-
-## 📜 Certifications
-
-- Google Cybersecurity 
-- Mastercard Cybersecurity Job Simulation
-- Cisco Cybersecurity 
+### Asteroid Blaster – Personal Project  
+`JavaScript` `HTML5 Canvas` `CSS Grid` `GitHub Pages`  
+- Developed a fully functional space defense game featuring 60-second rounds, escalating difficulty, and real-time collision detection using object-oriented JavaScript.  
+- Ensured mobile responsiveness and cross-platform play through adaptive canvas scaling, responsive CSS Grid layout, and custom touch controls.  
+- Deployed via GitHub Pages using CI/CD workflows, with static site optimizations for performance and accessibility.
 
 ## 🤝 Connect With Me
 
