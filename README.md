@@ -14,9 +14,11 @@
 
 ## 📜 Certifications
 
-- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/XA2MCWLZ8GDOutm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof](https://www.coursera.org/account/accomplishments/specialization/XA2MCWLZ8GDO?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
-- Mastercard Cybersecurity Job Simulation
-- Cisco Cybersecurity 
+- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/XA2MCWLZ8GDO?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+- [Cisco Cybersecurity](https://www.credly.com/badges/a3283129-08e8-4995-ac82-4b3539963263/public_url)
+- [AT&T 2025 Technology Academy Alumni (June 2025)](https://www.credly.com/badges/48094013-a0b0-4403-bcb9-37af8ce12d2e/linked_in_profile)
+- [Mastercard Cybersecurity Job Simulation](#)
+
 
 ## 💼 Experience
 
