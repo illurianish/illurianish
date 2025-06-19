@@ -63,4 +63,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:illurianish@gmail.com)
 
 
+![resume](https://github.com/user-attachments/assets/d1270087-4857-4aec-96ed-ea957cf9a8dc)
+
+
 
