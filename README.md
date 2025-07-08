@@ -24,15 +24,21 @@
 
 **Software Labs LLC – Software Engineering Intern**  
 *June 2024 – Aug. 2024 | New York, NY*  
-- Optimized React components with lazy loading (35% load time reduction)  
-- Refactored and indexed SQL queries in PostgreSQL (40% faster response)  
-- Built CI integrations using ESLint, Prettier, Jest, and Supertest
+- Assisted in building internal tools by writing and editing front-end code (HTML/CSS/JavaScript), helping reduce UI bugs across
+  3 client-facing platforms.
+- Tested web features across different browsers and devices, reporting 15+ issues that improved usability for digital
+  transformation projects. 
+- Helped update API documentation and code comments for cloud-based applications using Microsoft and AWS tools, improving
+  developer handoff speed by 20%.
 
 **Sriven Info Inc – Software Engineering Intern**  
 *June 2023 – Aug. 2023 | New York, NY*  
-- Developed responsive UIs with React and Tailwind CSS  
-- Created RESTful APIs with Node.js and Express  
-- Automated deployments via GitHub Actions (25% fewer manual errors)
+- Reduced recruiter screening time by 30% by building a resume-tagging tool that grouped applicants based on skills and
+  experience using simple filtering logic.
+- Improved internal dashboard load speed by 25% by optimizing frontend components and minimizing API calls in collaboration
+  with the dev team.  
+- Automated repetitive data entry tasks for the recruiting team by writing scripts that processed 500+ resumes weekly, cutting
+  manual effort by over 40%.
 
 ## 🧠 Notable Projects
 
