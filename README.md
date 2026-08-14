@@ -1,69 +1,90 @@
 # 👋 Hi, I'm Anish Reddy Illuri
 
-🚀 4th-Year Computer Science student at Fordham University with a passion for full-stack development, secure coding practices, and performance optimization. I thrive in Agile environments and enjoy solving complex problems with scalable solutions.
+🎓 **M.S. Computer Science student at Fordham University** with a background in software engineering, full-stack development, and artificial intelligence.
+
+💻 I enjoy building practical software, working across frontend and backend systems, designing APIs, and turning ideas into scalable applications.
+
+📍 New York City | 🇺🇸 U.S. Citizen
 
 ## 🛠️ Technical Skills
 
-- **Languages:** `Python`, `JavaScript`, `C++`, `SQL`, `HTML/CSS`  
-- **Frameworks:** `Node.js`, `Express.js`, `Django`, `Flask` 
-- **Frontend:** `React, Bootstrap`, `Tailwind CSS`  
-- **Dev Tools:** `Git`, `GitHub Actions`, `Render`, `VS Code`  
-- **Databases:** `PostgreSQL`, `Firestore`  
-- **Testing:** `Jest`, `Supertest`  
-- **Practices:** `Agile`, `CI/CD`, `REST APIs`, `WebSockets`  
+* **Languages:** `Python` `JavaScript` `TypeScript` `C++` `Java` `SQL` `C#` `HTML` `CSS`
+* **Frameworks & Libraries:** `React` `Node.js` `Express.js` `Flask` `.NET` `Pandas`
+* **Databases:** `PostgreSQL` `Firebase Firestore`
+* **Cloud & DevOps:** `AWS` `Google Cloud Platform` `Docker`
+* **Developer Tools:** `Git` `GitHub` `Postman` `VS Code` `Visual Studio`
+* **Core Areas:** `Full-Stack Development` `REST APIs` `Data Analysis` `Software Engineering` `AI`
 
 ## 📜 Certifications
 
-- [`Google Cybersecurity`](https://www.coursera.org/account/accomplishments/specialization/XA2MCWLZ8GDO?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
-- [`Cisco Cybersecurity`](https://www.credly.com/badges/a3283129-08e8-4995-ac82-4b3539963263/public_url)
-- [`AT&T 2025 Technology Academy Alumni (June 2025)`](https://www.credly.com/badges/48094013-a0b0-4403-bcb9-37af8ce12d2e/linked_in_profile)
-- [`Mastercard Cybersecurity Job Simulation`](#)
-
+* [`AWS Certified Developer – Associate`](https://www.credly.com/badges/cabbb1dd-5bb6-46d6-8aa9-69f694edb1bb/linked_in_profile)
+* [`Google Cybersecurity Professional Certificate`](https://www.coursera.org/account/accomplishments/specialization/XA2MCWLZ8GDO)
+* [`Cisco Cybersecurity`](https://www.credly.com/badges/a3283129-08e8-4995-ac82-4b3539963263/public_url)
+* `CodePath Intro to Technical Interview Prep`
+* `Mastercard Cybersecurity`
+* [`AT&T 2025 Technology Academy Alumni`](https://www.credly.com/badges/48094013-a0b0-4403-bcb9-37af8ce12d2e/linked_in_profile)
 
 ## 💼 Experience
 
-**Software Labs LLC – Software Engineering Intern**  
-*June 2024 – Aug. 2024 | New York, NY*  
-- Assisted in building internal tools by writing and editing front-end code (HTML/CSS/JavaScript), helping reduce UI bugs across
-  3 client-facing platforms.
-- Tested web features across different browsers and devices, reporting 15+ issues that improved usability for digital
-  transformation projects. 
-- Helped update API documentation and code comments for cloud-based applications using Microsoft and AWS tools, improving
-  developer handoff speed by 20%.
+### AriesView — Software Engineer Intern
 
-**Sriven Info Inc – Software Engineering Intern**  
-*June 2023 – Aug. 2023 | New York, NY*  
-- Reduced recruiter screening time by 30% by building a resume-tagging tool that grouped applicants based on skills and
-  experience using simple filtering logic.
-- Improved internal dashboard load speed by 25% by optimizing frontend components and minimizing API calls in collaboration
-  with the dev team.  
-- Automated repetitive data entry tasks for the recruiting team by writing scripts that processed 500+ resumes weekly, cutting
-  manual effort by over 40%.
+*Aug. 2025 – Dec. 2025 | Boston, MA*
 
-## 🧠 Notable Projects
+* Designed modular financial calculation algorithms using **JavaScript and PostgreSQL** for real estate investment analysis, valuation, cash flow modeling, and multi-year forecasting.
+* Integrated property, lease, and financial data with PostgreSQL-backed calculation modules.
+* Collaborated with frontend engineers to integrate financial models into interactive real estate analytics dashboards.
 
-### AI Code Detection Bot  
-`Python`, `Flask`, `JavaScript`, `Machine Learning`  
-- Created an AI model that distinguishes between human and AI-generated code based on code structure and metadata  
-- Developed backend API in Flask; deployed on Render with autoscaling and error monitoring  
-- Frontend supports file upload and returns confidence score; hosted on GitHub Pages  
+### Knack — Computer Science Tutor
 
-### AI Mental Health Bot  
-`Python`, `Flask`, `React`, `PostgreSQL`, `OpenAI`  
-- Developed full-stack mental health application with AI chatbot using OpenAI GPT-3.5-turbo for personalized support and CBT exercises  
-- Built Flask REST API with PostgreSQL for mood tracking and journaling; deployed backend on Render with production database  
-- Implemented React TypeScript frontend with mood visualization and chat interface; hosted on GitHub Pages
+*Aug. 2025 – May 2026 | Fordham University, NY*
 
-### Asteroid Blaster – Personal Project  
-`JavaScript` `HTML5 Canvas` `CSS Grid` `GitHub Pages`  
-- Developed a fully functional space defense game featuring 60-second rounds, escalating difficulty, and real-time collision detection using object-oriented JavaScript.  
-- Ensured mobile responsiveness and cross-platform play through adaptive canvas scaling, responsive CSS Grid layout, and custom touch controls.  
-- Deployed via GitHub Pages using CI/CD workflows, with static site optimizations for performance and accessibility.
+* Tutored students in programming, algorithms, data structures, and data analysis.
+* Created structured study plans and coding exercises tailored to individual coursework.
+* Helped students improve debugging, algorithm development, and problem-solving skills.
+
+### Nomad Sports Inc. — Junior Software Developer Intern
+
+*May 2025 – Aug. 2025 | Remote*
+
+* Developed backend architecture using **Node.js, Express.js, and Firebase** for authentication, trip creation, accommodations, and application workflows.
+* Designed Firestore schemas and implemented **role-based access control** using JWT and Firebase Authentication.
+* Built and tested REST APIs and created technical documentation and API reference guides.
+
+## 🚀 Featured Projects
+
+### 🏒 NHL Trade Analytics Platform
+
+`Python` `Pandas` `Data Analysis` `Statistical Modeling`
+
+* Built a Python and Pandas analytics pipeline for NHL player and contract datasets.
+* Performed exploratory data analysis, statistical modeling, and salary cap forecasting.
+* Used data-driven analysis to evaluate potential player trades and roster decisions.
+
+### 🤖 Discord Scrum Management Bot
+
+`Python` `Firebase Firestore` `Docker` `Google Cloud Platform`
+
+* Developed a Scrum project management bot with **23 commands** across four functional modules.
+* Added project creation, backlog management, permissions, and multi-project support.
+* Implemented persistent storage and multi-server data isolation using Firebase Firestore.
+
+### 🧠 AI Mental Health Bot
+
+`Python` `Flask` `React` `TypeScript` `PostgreSQL` `OpenAI API`
+
+* Built a full-stack AI-assisted application with real-time chat and mood tracking.
+* Developed a **Flask REST API** backed by PostgreSQL.
+* Integrated the OpenAI API for conversational functionality and deployed the application using Render.
+
+## 🌱 Currently
+
+* Pursuing my **M.S. in Computer Science at Fordham University**
+* Exploring **software engineering, artificial intelligence, and full-stack development**
+* Building projects and strengthening my skills in scalable application development and cloud technologies
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishreddyilluri/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/illurianish)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_illuri/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/illurianish)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@illurianish.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://illurianish.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anishreddyilluri/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/illurianish)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:illurianish1@gmail.com)
